@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = myFunction(55);
+function myFunction(a) {
+  var
+  power = 10;
+  return;
+  a * power;
+}
+</script>
+
+</body>
+</html>
